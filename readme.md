@@ -11,11 +11,16 @@ bottleで作る「画像地理情報マップ」
 - 登録：画像のタイトル、ファイル名を登録します。緯度と経度は画像ファイルのメタデータから読み込みます。
 - 地図：登録した画像の撮影位置をGoogle Map APIを使用して、一括表示します。
 
+## 使用上の注意
+このアプリを使い、画像のGPS情報を地図上に表示するには、Google Map APIのAPI KEYの取得が必要です。
+API KEYの取得についてはウェブサイト[4](https://developers.google.com/maps/documentation/javascript/)
+をご参照ください。
+
 ## テキスト
-[1] 鈴木たかのり, 清原弘貴, 関根裕紀ほか, 『Pythonエンジニア養成読本』, 技術評論社 (2015)  
+[1] 鈴木たかのり, 清原弘貴, 関根裕紀ほか, 『Pythonエンジニア養成読本』, 技術評論社 (2015) <br> 
 [http://gihyo.jp/book/2015/978-4-7741-7320-7](http://gihyo.jp/book/2015/978-4-7741-7320-7)
 
-[2] 『Webを支える技術』, 技術評論社（2010）
+[2] 『Webを支える技術』, 技術評論社（2010）<br>
 [http://gihyo.jp/magazine/wdpress/plus/978-4-7741-4204-3](http://gihyo.jp/magazine/wdpress/plus/978-4-7741-4204-3)
 
 ## ウェブサイト
