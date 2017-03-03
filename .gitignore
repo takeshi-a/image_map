@@ -1,0 +1,6 @@
+# ignore cache files
+*/__pycache__
+*.pyc
+
+# ignore temporary files
+tmp/
